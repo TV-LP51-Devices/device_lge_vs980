@@ -5,7 +5,7 @@
     "branch":      "lp5.1-caf"
   },
   {
-    "repository": "android_kernel_lge_msm8974-caf",
+    "repository": "lg-devs/android_kernel_lge_msm8974-caf",
     "target_path": "kernel/lge/msm8974-caf",
     "branch":      "cm-12.1-caf"
   },
