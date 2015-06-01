@@ -32,3 +32,9 @@ persist.radio.snapshot_enabled=1
 persist.radio.snapshot_timer=22
 persist.radio.add_power_save=1
 DEVICE_PROVISIONED=1
+<<<<<<< HEAD
+=======
+ro.cdma.homesystem=64,65,76,77,78,79,80,81,82,83
+ro.ril.force_eri_from_xml=true
+ro.telephony.get_imsi_from_sim=true
+>>>>>>> 2459690ca4737050355396908e008e2ebff8f453

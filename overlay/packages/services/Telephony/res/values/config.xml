@@ -14,8 +14,18 @@
      limitations under the License.
 -->
 
+<<<<<<< HEAD
 <!-- shooteru-specific phone app resources. -->
 <resources>
+=======
+<!-- Phone app resources that may need to be customized
+     for different hardware or product builds. -->
+<resources>
+
+    <!-- Show APN Settings for some CDMA carriers -->
+    <bool name="config_show_apn_setting_cdma">true</bool>
+
+>>>>>>> 2459690ca4737050355396908e008e2ebff8f453
     <!-- Flag indicating whether the Phone app should ignore
         EVENT_SIM_NETWORK_LOCKED events from the Sim.  If true, this will
         prevent the IccNetworkDepersonalizationPanel from being shown,
