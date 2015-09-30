@@ -1,13 +1,13 @@
 [
   {
-    "repository": "TV-LP51-Devices/device_lge_g2-common",
+    "repository": "Tesla-Redux-Devices/device_lge_g2-common",
     "target_path": "device/lge/g2-common",
     "branch":      "lp5.1"
   },
   {
-    "repository": "Euphoria-OS-Devices/android_kernel_lge_msm8974",
+    "repository": "RenderBroken/G2-CAF-kernel",
     "target_path": "kernel/lge/msm8974",
-    "branch":      "r3-t1"
+    "branch":      "cm-12.x-caf"
   },
   {
     "repository": "lg-devs/proprietary_vendor_lge",
@@ -20,3 +20,4 @@
     "branch":      "cm-12.1"
   }
 ]
+
