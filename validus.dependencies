@@ -2,21 +2,26 @@
   {
     "repository": "TV-LP51-Devices/device_lge_g2-common",
     "target_path": "device/lge/g2-common",
-    "branch":      "lp5.1"
+    "branch":      "mm6.0"
   },
   {
-    "repository": "RenderBroken/G2-CAF-kernel",
+    "repository": "CyanogenMod/android_kernel_lge_msm8974",
     "target_path": "kernel/lge/msm8974",
-    "branch":      "cm-12.x-caf"
+    "branch":      "cm-13..0"
   },
   {
-    "repository": "lg-devs/proprietary_vendor_lge",
+    "repository": "TheMuppets/proprietary_vendor_lge",
     "target_path": "vendor/lge",  
-    "branch":      "cm-12.1"
+    "branch":      "cm-13.0"
   },
   {
     "repository":  "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch":      "cm-12.1"
+    "branch":      "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "cm-13.0"
   }
 ]
